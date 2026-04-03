@@ -4,3 +4,5 @@ For the first mode - Analyze, you can type in any password and it'll tell you th
 
 ## How to Set it up?
 Clone the Repo. Install npm Packages. Do "npm run build", wait for it to finish, then do "npm run preview." It's up and running now. 
+
+**Live Demo: https://pass-analysis.vercel.app**
